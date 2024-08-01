@@ -126,6 +126,11 @@
     font-weight: var(--fw-bold);
   }
 
+  .change-plan:hover{
+    opacity: 0.5;
+    text-decoration: none;
+  }
+
   .card-buttons button{
     display: block;
     width: 100%;
@@ -150,4 +155,13 @@
   .card-buttons .cancel-button{
    color: var(--desaturated-blue)
   } 
+
+  .card-buttons .payment-button:hover{
+   opacity: 0.5
+  }
+
+  .card-buttons .cancel-button:hover{
+    color: black;
+    font-weight: var(--fw-bold);
+  }
 
