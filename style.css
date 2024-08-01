@@ -72,6 +72,8 @@
     align-items: center;
     height: 100vh;
 
+    font-family: var(--font-family);
+
   }
 
   .card{
@@ -87,7 +89,7 @@
   }
 
   .card-content{
-    outline: 2px solid black;
+    text-align: center;
     
   }
 
