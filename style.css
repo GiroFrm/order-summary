@@ -67,5 +67,23 @@
 
   body{
 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+  }
+
+  .card{
+    outline: 1px solid red;
+    max-width: 375px;
+    border-radius: 1rem;
+    padding-bottom: 3rem;
+
+  }
+
+  .card-content{
+    outline: 2px solid black;
     
   }
+
