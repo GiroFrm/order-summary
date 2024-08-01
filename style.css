@@ -105,6 +105,9 @@
     margin-bottom: 1rem;
     
   }
+  .card-content h1 {
+    margin-bottom: 0.8rem;
+  }
 
   .card-plan{
     display: flex;
