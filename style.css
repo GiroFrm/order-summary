@@ -82,6 +82,10 @@
 
   }
 
+  .wrapper{
+   padding-inline: 2rem;
+  }
+
   .card-content{
     outline: 2px solid black;
     
