@@ -74,13 +74,19 @@
 
     font-family: var(--font-family);
 
+    background-color: var(--pale-blue);
+    background-image: url(images/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+    background-position: Top center;
+    background-size: 100%;
   }
 
   .card{
-    outline: 1px solid red;
+    
     max-width: 375px;
     border-radius: 1rem;
     padding-bottom: 3rem;
+    background-color: white;
 
   }
 
