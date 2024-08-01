@@ -144,10 +144,10 @@
     border-radius: 0.8em;
     margin-bottom: 1.5rem;
 
-    box-shadow: 0px 5px 20px 1px var(--desaturated-blue);
+    box-shadow: 0px 5px 18px 1px var(--desaturated-blue);
   }
 
   .card-buttons .cancel-button{
-
-  }
+   color: var(--desaturated-blue)
+  } 
 
