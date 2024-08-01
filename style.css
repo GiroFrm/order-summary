@@ -93,3 +93,36 @@
     
   }
 
+  .card-plan{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    background-color: var(--very-pale-blue);
+    padding:1rem;
+    border-radius: 8px;
+
+    margin-bottom: 1.5rem;
+  }
+
+  .card-plan-value{
+    display: flex;
+   
+  }
+
+  .card-plan-value p{
+   font-weight: var(--fw-bold);
+   margin-left: 1rem;
+  }
+
+  .card-plan-value p span{
+   display: block;
+   font-weight: var(--fw-regular);
+   color: var(--desaturated-blue)
+  }
+
+  .change-plan{
+    color:var(--bright-blue);
+    font-weight: var(--fw-bold);
+  }
+
